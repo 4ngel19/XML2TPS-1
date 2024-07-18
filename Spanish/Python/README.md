@@ -1,4 +1,4 @@
-<br> <img src="/assets/xml2tps-logo.png" align="left" width="150">
+<br> <img src="/images/xml2tps-logo.png" align="left" width="150">
 <br><br><br><br>
 
 # **xml2tps**
