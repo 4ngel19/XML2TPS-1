@@ -1,10 +1,9 @@
-<br> <img src="images\xml2tps-logo.png" align="right" width="124">
-
-<br><br>
+<br> <img src="/assets/xml2tps-logo.png" align="left" width="150">
+<br><br><br><br>
 
 # **xml2tps**
 
- <br><br>
+ <br>
 
 Este es un pequeño programa útil para realizar transformaciones de los
 archivos de salida de [Ml-Morph](https://github.com/agporto/ml-morph),
@@ -25,9 +24,9 @@ Esta pequeña aplicación es multiplataforma ya que está desarrollada en
 los lenguajes de ***python*** y ***r***. Su ejecución e instalación son
 sencillas; hemos agregado instrucciones para su uso, así como listado
 las librerías necesarias para que se ejecute exitosamente en cualquiera
-de los lenguajes. <br> <br> <br> 
+de los lenguajes. <br> <br> 
 
-**Autores**:  
+## **Autores**:  
 Francisco Miranda Vázquez  
 email: <francisco55555mv@ciencias.unam.mx>
 
