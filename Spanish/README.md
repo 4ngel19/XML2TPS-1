@@ -21,7 +21,7 @@ esa variación o incluir escala en cada uno de sus individuos para
 explorar los efectos de la alometría en su dataset.
 
 Esta pequeña aplicación es multiplataforma ya que está desarrollada en
-los lenguajes de ***Python*** y ***R***. Su ejecución e instalación son
+los lenguajes de **Python** y **R**. Su ejecución e instalación son
 sencillas; hemos agregado instrucciones para su uso, así como listado
 las librerías necesarias para que se ejecute exitosamente en cualquiera
 de los lenguajes. <br> <br> 
@@ -34,4 +34,4 @@ Angel Angeles Cortés
 email: <angel_10@ciencias.unam.mx>
 
 Dr. Jesús Alberto Díaz-Cruz  
-email: <vertebrata.j@ciencias.unam.mx> <br><br>
+email: <vertebrata.j@ciencias.unam.mx> 
