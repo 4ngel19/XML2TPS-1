@@ -3,7 +3,7 @@
 
 # **xml2tps**
 
-## <br>
+<br>
 
 This is a small, useful program for transforming output files from [Ml-Morph](https://github.com/agporto/ml-morph), converting them from `.xml` to `.tps` format. In other words, it is an xml to tps converter.
 
