@@ -1,3 +1,5 @@
+# User Manual
+
 ## Python dependencies 
 We need to have the library :
 - pandas >= 2.0.3

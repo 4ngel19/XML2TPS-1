@@ -1,3 +1,5 @@
+# Manual de Uso
+
 ## Dependencias de Python
 
 Debemos tener previamente instalada la libreria:
